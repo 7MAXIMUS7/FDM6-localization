@@ -557,7 +557,7 @@ msgstr "ブラウザによるダウンロードを自動でキャッチ"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Intercept downloads in your web browser"
-msgstr "Webブラウザによるダウンロードを横取りするる"
+msgstr "Webブラウザによるダウンロードを横取りする"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Start downloading without confirmation"
